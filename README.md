@@ -10,6 +10,8 @@ My goal is to understand AWS by practicing every service instead of only watchin
 
 - ✅ Day 1 - Why AWS?
 - ✅ Day 2 - What is AWS?
+- ✅ Day 3 - What is AWS Infrastructure?
+- ✅ Day 4 - What is IAM?
 
 
 ---
@@ -22,7 +24,7 @@ aws-cloud-learning-journey/
 ├── Day-01-Why-AWS/
 ├── Day-02-What-is-AWS/
 ├── Day-03-Global-Infrastructure/
-
+├── Day-04-IAM/
 ```
 
 ---
